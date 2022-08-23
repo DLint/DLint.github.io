@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to lintminuit
 
-You can use the [editor on GitHub](https://github.com/DLint/DLint.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+lintminuit，我擅自将它译为“令因特晚安”，由注册邮箱时使用的英文网名lint+法语中的晚安minuit构成。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+关于我
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- 反卷programmer
+- IT审计
+- AcFun忠实用户
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Fong言Fong语
 
-### Jekyll Themes
+```markdown
+- 穿过界县长长的隧道
+- 全世界所有细雨落在全世界的草坪上
+- あんたの正义は一体なんだ？
+- 夕阳を见ているか?
+- Dream maker,life taker
+- Cause after all,the city never sleep at night
+- 君が知っている空の青さを 知りたいから
+- 飞舞的头发和飘着雨还是眺望的眼光
+- 一期一会
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DLint/DLint.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+最后祝你，身体健康
